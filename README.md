@@ -3211,7 +3211,7 @@ func ProPerlyGetImages(with urlString: String, completionhandler: @escaping (UII
 ### 코어데이터
     
     
-    # 앱의 생명주기(Life Cycle)
+앱의 생명주기(Life Cycle)
 
 1) 뷰컨트롤러의 생명주기
 
@@ -3224,12 +3224,12 @@ func ProPerlyGetImages(with urlString: String, completionhandler: @escaping (UII
 
 ViewController 의 View를 개발자가 직접 만든 View로 바꾸고 싶을 때 (코드로 뷰를 짠다면)
 
-```json
+
 override func loadView() {
 	//super.loadView()는 하면 안됨
 	view = loginView()
 }
-```
+
 
 2) 앱의 생명 주기
 
