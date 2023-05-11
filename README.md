@@ -3211,7 +3211,7 @@ func ProPerlyGetImages(with urlString: String, completionhandler: @escaping (UII
 ### 코어데이터
     
     
-앱의 생명주기(Life Cycle)
+#앱의 생명주기(Life Cycle)
 
 1) 뷰컨트롤러의 생명주기
 
