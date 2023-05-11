@@ -1,5 +1,3 @@
-import UIKit
-
 # Swift Study
 
 ### 변수(Variables)
